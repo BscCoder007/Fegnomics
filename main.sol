@@ -1,7 +1,3 @@
-/**
- *Submitted for verification at BscScan.com on 2021-10-13
-*/
-
 // SPDX-License-Identifier: unlicensed
 
 /*
